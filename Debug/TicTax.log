@@ -1,0 +1,22 @@
+﻿生成启动时间为 2019/12/30 9:58:56。
+     1>项目“c:\Users\HP\documents\visual studio 2010\Projects\TicTax\TicTax.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\TicTax.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt TicTax.cpp
+         TicTax.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+       Link:
+         E:\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\hp\documents\visual studio 2010\Projects\TicTax\Debug\TicTax.exe" /NOLOGO /MANIFEST /ManifestFile:"Debug\TicTax.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\hp\documents\visual studio 2010\Projects\TicTax\Debug\TicTax.pdb" /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\hp\documents\visual studio 2010\Projects\TicTax\Debug\TicTax.lib" /MACHINE:X86 Debug\TicTax.obj
+         LINK : 没有找到 c:\users\hp\documents\visual studio 2010\Projects\TicTax\Debug\TicTax.exe 或上一个增量链接没有生成它；正在执行完全链接
+         TicTax.vcxproj -> c:\users\hp\documents\visual studio 2010\Projects\TicTax\Debug\TicTax.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\hp\documents\visual studio 2010\Projects\TicTax\Debug\TicTax.exe;#1" /manifest Debug\TicTax.exe.intermediate.manifest "E:\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\TicTax.unsuccessfulbuild”。
+         正在对“Debug\TicTax.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“c:\Users\HP\documents\visual studio 2010\Projects\TicTax\TicTax.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.28
